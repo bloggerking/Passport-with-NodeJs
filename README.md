@@ -11,3 +11,6 @@ Start application
 Works on 3000 port
 
 `http://localhost:3000`
+
+Username: test@gmail.com
+Password: test@123
