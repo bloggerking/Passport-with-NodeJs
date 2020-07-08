@@ -15,3 +15,5 @@ Works on 3000 port
 Username: test@gmail.com
 
 Password: test@123
+
+Check step wise description http://blogsaura.com/nodejs-passport/
